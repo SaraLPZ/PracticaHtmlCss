@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.cuadro{
+	width: 965px;
+	height: 750px;
+	background-color: yellow;
+	margin: auto;
+}
+header img{
+	width: 250px;
+	height: 150px;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+}
+.enlaces{
+	margin-left: 640px;
+}
+.final{
+	margin: auto;
+}
+footer p{
+	text-align: center;
+}
+col{
+	width: 250px;
+	display: inline-block;
+}
+.fila{
+	display: inline-block;
+	text-align: center;
+}
